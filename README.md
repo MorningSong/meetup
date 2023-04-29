@@ -1,7 +1,7 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-- [字节跳动 CloudWeGo 源码解读-微服务中间件集合](https://github.com/baiyutang/cloudwego-read)
+
 
 
 ## 衍生
@@ -13,6 +13,7 @@
 * [InfoQ Live](https://live.infoq.cn/)
 
 ## PPT 集合
+* [可观测性峰会 2023](https://github.com/cloudnativeto/academy)
 * [Cloudwego Meetup - 字节跳动](https://github.com/cloudwego/community/tree/main/meetup)
 * [2021 GMTC 讲师 PPT 合集](https://www.yuque.com/zaotalk/nt/gcdkag)
 * [历年 GopherChina PPT](https://github.com/gopherchina/conference)
